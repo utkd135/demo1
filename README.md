@@ -1,1 +1,1 @@
-# Lungs-CT-Scan-Classsification
+# demo
